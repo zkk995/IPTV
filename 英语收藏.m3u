@@ -3,7 +3,7 @@
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title=收藏,CGTN记录
 https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="cctv4k央视" tvg-id="" group-title="UK" tvg-logo="https://i.imgur.com/6rlt5Ph.png",cctv4k央视
+#EXTINF:-1 tvg-name="cctv4k央视" tvg-id="" group-title=收藏 tvg-logo="https://i.imgur.com/6rlt5Ph.png",cctv4k央视
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title=收藏,上海外语
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
